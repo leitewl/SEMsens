@@ -1,0 +1,33 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# SEMsens
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of SEMsens is to perform sensitivity analysis for structural equation modeling against a potential missing confounder.
+
+## Installation
+
+You can install the released version of SEMsens from [CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("SEMsens")
+```
+
+## Example
+
+Please see vignettes for examples about how to use the package.
