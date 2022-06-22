@@ -1,7 +1,7 @@
 Package: SEMsens
 Type: Package
 Title: A Tool for Sensitivity Analysis in Structural Equation Modeling
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: c(
     person("Walter", "Leite", email = "walter.leite@coe.ufl.edu", role = c( "aut", "cre")),
     person("Zuchao", "Shen", role = "aut"),
@@ -33,4 +33,4 @@ Encoding: UTF-8
 LazyData: true
 Suggests: knitr, rmarkdown
 VignetteBuilder: rmarkdown, knitr
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.0
